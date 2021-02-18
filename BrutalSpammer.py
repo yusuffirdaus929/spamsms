@@ -17,9 +17,8 @@ def baner():
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
 \t------------
-\nCreator: Faqih ID
-Youtube: Ilangqwer
-Github : github.com/IL4NGQW3R
+\nCreator: Dah Lah
+Github : https://github.com/yusuffirdaus929
 ==========================================''')
 def kata(s):
     for c in s + "\n":
